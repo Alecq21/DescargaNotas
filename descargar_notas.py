@@ -1,5 +1,3 @@
-
-
 import imaplib
 import email
 from email.header import decode_header
@@ -11,7 +9,7 @@ from datetime import datetime, timedelta
 # CONFIGURACIÓN PERSONALIZADA
 # --------------------------
 USUARIO = "alequiroga1991@gmail.com"
-CONTRASENA = "Ingresá tu contraseña: "
+CONTRASENA = "tu_contraseña_aqui"
 CARPETA_BASE = "Notas"
 CARPETA_VALIDACION = "Notas de Validacion"
 
